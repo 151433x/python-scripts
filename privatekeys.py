@@ -1,0 +1,1 @@
+WD='C:\Desktop\python scripts\raw data'
